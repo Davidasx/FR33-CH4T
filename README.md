@@ -38,5 +38,5 @@ All of the UI is written in Python Flask and helped by Github Copilot.
 
 If you're willing to participate in the project:
 
-- If you're focused on improving the UI: please join the [flask-gpt](https://github.com/Davidasx/flask-gpt) projectand your contribution will be pushed to this repo as well.
+- If you're focused on improving the UI: please join the [flask-gpt](https://github.com/Davidasx/flask-gpt) project and your contribution will be pushed to this repo as well.
 - If you have any ideas on raising the limits of messsages, feel free to contact me.
