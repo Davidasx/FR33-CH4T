@@ -1,4 +1,6 @@
 # FR33-CH4T
+⭐️ **If you like this project, please consider giving it a star!** ⭐️
+
 Welcome to one of the only unlimited free GPT-4o online chat!
 
 This is a platform where you can enjoy nearly unlimited ChatGPT usage.
@@ -8,6 +10,7 @@ The site is at: [https://free-chat.davidx.us.kg](https://free-chat.davidx.us.kg)
 Try it out now! No configuration is ever needed beforehand!
 
 The UI is based on my open-source project [flask-gpt](https://github.com/Davidasx/flask-gpt). However, to prevent abuse, code for free-chat are not open to the public. Apolgies if I've caused any inconvenience.
+
 
 ## Important Notice
 
