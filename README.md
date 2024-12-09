@@ -1,7 +1,7 @@
 # FR33-CH4T
 ⭐️ **If you like this project, please consider giving it a star!** ⭐️
 
-Welcome to one of the only unlimited free GPT-4o online chat!
+Welcome to one of the only (nearly) unlimited free GPT-4o online chat!
 
 This is a platform where you can enjoy nearly unlimited ChatGPT usage.
 
@@ -28,8 +28,9 @@ I will NOT track your activities while using free-chat. However, I hope that you
 ## Working in Progress
 
 - Appearance shall be improved.
-- Enable multi-line input and (potentially) visual input.
-- Enable stream response.
+- Support multi-line input and (potentially) visual input.
+- Support stream response.
+- Create a better account and session management system.
 
 ## Credits
 
