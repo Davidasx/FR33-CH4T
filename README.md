@@ -27,7 +27,7 @@ I will NOT track your activities while using free-chat. However, I hope that you
 
 ## Working in Progress
 
-- Appearance shall be improved.
+- Improve UI appearance.
 - Support multi-line input and (potentially) visual input.
 - Support stream response.
 - Create a better account and session management system.
