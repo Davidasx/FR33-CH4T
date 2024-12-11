@@ -24,12 +24,12 @@ I will NOT track your activities while using free-chat. However, I hope that you
 - No extra login is required -- if you're using it for the first time, the UUID will be automatically generated for you.
 - Fast and authentic response from GPT-4o.
 - Search online with DuckDuckGo to get the latest information.
+- Support stream response -- finally!
 
 ## Working in Progress
 
 - Improve UI appearance.
 - Support multi-line input and (potentially) visual input.
-- Support stream response.
 - Create a better account and session management system.
 
 ## Credits
