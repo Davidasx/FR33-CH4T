@@ -1,4 +1,5 @@
 # FR33-CH4T
+[简体中文](README-zh_cn.md)[English](README.md)
 ⭐️ **If you like this project, please consider giving it a star!** ⭐️
 
 Welcome to one of the only (nearly) unlimited free GPT-4o online chat!
