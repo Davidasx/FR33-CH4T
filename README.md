@@ -33,7 +33,7 @@ If everybody use this reasonably, this platform will run stably for a few years.
 
 ## Working in Progress
 
-- Improve UI appearance.
+- Improve UI appearance. (Working hard on the upstream project flask-gpt...)
 - Support multi-line input and (potentially) visual input.
 - Create a better account and session management system.
 
