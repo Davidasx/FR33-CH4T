@@ -3,7 +3,7 @@
 
 Welcome to one of the only (nearly) unlimited free GPT-4o online chat!
 
-This is a platform where you can enjoy nearly unlimited ChatGPT usage.
+This is a platform where you can enjoy nearly unlimited ChatGPT usage. It also supports models like LLaMa and Claude Haiku, but some features are lacking or malfunctioning.
 
 The site is at: [https://free-chat.davidx.us.kg](https://free-chat.davidx.us.kg)
 
