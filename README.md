@@ -1,6 +1,8 @@
 # FR33-CH4T
 [简体中文](README-zh_CN.md)   [English](README.md)
 
+**Notice: the Duckduckgo Search plugin is disabled by default. Please check it in settings if you need it. The plugin doesn't support beta models (like LLaMa and Claude).**
+
 ⭐️ **If you like this project, please consider giving it a star!** ⭐️
 
 Welcome to one of the only (nearly) unlimited free GPT-4o online chat!
