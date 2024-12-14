@@ -15,9 +15,11 @@ The UI is based on my open-source project [flask-gpt](https://github.com/Davidas
 
 ## Important Notice
 
-As this is a free project, abuse may be unavoidable. Although this project provides a really high limit of questions per day, the limits will still appear if there is a high number of users or some users that are abusing it. This project is currently open to the public but, if large amounts of abuse are seen, it may turn into a invitational project.
+As this is a free project, abuse may be unavoidable. Although this project provides a really high limit of questions per day, the limits will still appear if there is a high number of users or some users that are abusing it. This platform is currently open to the public but, if large amounts of abuse are seen, it may turn into a invitational platform.
 
 I will NOT track your activities while using free-chat. However, I hope that you do not abuse, to the benefits of the whole community of users.
+
+If everybody use this reasonably, this platform will run stably for a few years.
 
 ## Features
 
