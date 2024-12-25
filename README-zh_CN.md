@@ -1,6 +1,8 @@
 # FR33-CH4T
 [简体中文](README-zh_CN.md)   [English](README.md)
 
+**新增FLUX-schnell作图支持！快去看看吧！（目前仅支持GPT系列模型，和搜索功能一样）**
+
 **注意：目前Duckduckgo搜索插件默认不开启，有需要请打开设置勾选。插件不支持测试模型（LLaMa和Claude等）**
 
 ⭐️ **如果你喜欢本项目，请考虑在右上角给我加个星星！** ⭐️
@@ -28,6 +30,7 @@
 - 使用UUID标识符跨设备同步。
 - 无需额外注册登陆。第一次打开时，自动为您生成UUID。
 - 来自GPT-4o快速、真实的回复。
+- 使用FLUX-schnell作图。
 - 使用Duckduckgo搜索插件获取最新信息。（需要在设置中开启）
 - 终于支持流输出了！
 
@@ -39,9 +42,11 @@
 
 ## 致谢
 
-Azure AI翻译API提供翻译支持。
+Azure AI翻译API提供界面翻译（法语，德语，西班牙语和中文繁体）支持。
 
 界面均采用Python Flask框架，利用GitHub Copilot辅助编程。
+
+FLUX-schnell作图模型由CloudFlare Workers AI提供。（参考[这篇文章](https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/)，可以自己免费搞一个）
 
 ## 参与贡献
 
