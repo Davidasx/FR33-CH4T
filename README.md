@@ -1,6 +1,8 @@
 # FR33-CH4T
 [简体中文](README-zh_CN.md)   [English](README.md)
 
+**Added image creation functionabilities with FLUX-schnell! Check it out! (Also only available with GPT models)**
+
 **Notice: the Duckduckgo Search plugin is disabled by default. Please check it in settings if you need it. The plugin doesn't support beta models (like LLaMa and Claude).**
 
 ⭐️ **If you like this project, please consider giving it a star!** ⭐️
@@ -28,6 +30,7 @@ If everybody use this reasonably, this platform will run stably for a few years.
 - Sync between multiple devices with a unique UUID.
 - No extra login is required -- if you're using it for the first time, the UUID will be automatically generated for you.
 - Fast and authentic response from GPT-4o.
+- Create images with FLUX-schnell
 - Search online with DuckDuckGo to get the latest information.
 - Support stream response -- finally!
 
@@ -39,9 +42,11 @@ If everybody use this reasonably, this platform will run stably for a few years.
 
 ## Credits
 
-Translation powered by Azure Translation API.
+UI translation (de, es, fr, zh-hk) powered by Azure Translation API.
 
 All of the UI is written in Python Flask and helped by Github Copilot.
+
+FLUX-schnell provided by CloudFlare Workers AI. (You can get your own for free. See [here](https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/)).
 
 ## Participate
 
