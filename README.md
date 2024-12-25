@@ -42,7 +42,7 @@ If everybody use this reasonably, this platform will run stably for a few years.
 
 ## Credits
 
-UI translation (de, es, fr, zh-hk) powered by Azure Translation API.
+UI translation (fr, de, es, zh-hk) powered by Azure Translation API.
 
 All of the UI is written in Python Flask and helped by Github Copilot.
 
