@@ -42,7 +42,7 @@
 
 ## 致谢
 
-Azure AI翻译API提供界面翻译（法语，德语，西班牙语和中文繁体）支持。
+Azure翻译API提供界面翻译（法语，德语，西班牙语和中文繁体）支持。
 
 界面均采用Python Flask框架，利用GitHub Copilot辅助编程。
 
