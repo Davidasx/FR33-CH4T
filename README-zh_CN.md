@@ -11,7 +11,7 @@
 
 这是一个允许你几乎无限使用ChatGPT的平台。同时，近期加入和对LLaMa和Claude Haiku的支持（暂时功能不完善）。
 
-项目网站： [https://free-chat.davidx.us.kg](https://free-chat.davidx.us.kg)
+项目网站： [https://free-chat.davidx.top](https://free-chat.davidx.top)
 
 现在就去试试吧！无需进行任何配置！
 
